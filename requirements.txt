@@ -288,7 +288,7 @@ SQLAlchemy @ file:///C:/ci/sqlalchemy_1603818968375/work
 sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
 srsly==1.0.2
 statsmodels==0.12.0
-streamlit 0.71.0 
+streamlit==0.71.0  
 sympy @ file:///C:/ci/sympy_1597083371142/work
 tables==3.6.1
 tabulate==0.8.7
