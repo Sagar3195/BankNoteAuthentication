@@ -1,15 +1,5 @@
 absl-py==0.9.0
 alabaster==0.7.12
-anaconda-project==0.8.3
-aplus==0.11.0
-argh==0.26.2
-astor==0.8.1
-astropy==4.0.2
-astunparse==1.6.3
-async-generator==1.10
-async-timeout==3.0.1
-atomicwrites==1.4.0
-attrs==19.3.0
 Babel==2.8.0
 backcall==0.1.0
 backports.csv==1.0.7
